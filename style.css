@@ -1,0 +1,17 @@
+*{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: linear-gradient(to right, #22211D,#BC7304);
+}
+
+.Container1{
+ width: 548px;
+ height: 651px;
+}
+
+.Container2{
+    width: 546px;
+    height: 442px;
+}
+
